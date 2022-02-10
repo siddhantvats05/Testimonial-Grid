@@ -22,12 +22,13 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/98140422/153484377-37b93ed4-b78c-4144-b152-5700e19401bf.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://siddhantvats05.github.io/Testimonial-Grid/
 
 ## My process
 
